@@ -341,7 +341,7 @@ def open_label_list():
 
 # Create the tkinter main window and set the title
 root = tk.Tk()
-root.title("Editor de Etiquetas - Línea de Producción FO")
+root.title("Industrial Label Generator")
 check_and_create_directories()
 
 
